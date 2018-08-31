@@ -114,7 +114,11 @@
     font-size: 0.5em;
   }
 
-  @media only screen and (max-width: 600px) {
+  .supersmall{
+    font-size: 0.3em;
+  }
+
+  @media only screen and (max-width: 720px) {
 
     .info {
       flex-direction: column;
