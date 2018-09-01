@@ -74,12 +74,16 @@
     color: #FF0079;
   }
 
-  .text {
+  .textContainer {
     color: #000;
     padding: 1.2em;
     padding-right: 0;
     background: #FFF;
     font-size: 0.8em;
+  }
+
+  .txt {
+    padding: 1em; 
   }
 
   .appStoreBadge {
@@ -145,7 +149,7 @@
       margin: 0;
     }
 
-    .text{
+    .textContainer{
       display: block;
       font-size: 0.5em;
     }
@@ -162,5 +166,7 @@
       transform: scale(0.5);
       filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.9999619230641713, M12=-0.008726535498373935, M21=0.008726535498373935, M22=0.9999619230641713,SizingMethod='auto expand');
     }
+
+
 
   }
