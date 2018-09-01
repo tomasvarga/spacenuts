@@ -126,12 +126,14 @@
     }
 
     .player {
-        display: flex;
+      display: flex;
+      padding: 0;
     }
 
     .player iframe {
       width: 300px;
       height: 350px;
+      padding: 0;
     }
 
     .text{
