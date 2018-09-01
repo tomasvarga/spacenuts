@@ -122,6 +122,7 @@
 
     .info {
       flex-direction: column;
+      height: auto;
     }
 
     .player {
