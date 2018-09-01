@@ -125,8 +125,7 @@
     }
 
     .player {
-        display: block;
-        top: 210px;
+        display: flex;
     }
 
     .player iframe {
@@ -136,6 +135,7 @@
 
     .text{
       margin-top: 150px;
+      display: block;
     }
 
     .bottom{
