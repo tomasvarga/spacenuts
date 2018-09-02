@@ -80,10 +80,11 @@
     padding-right: 0;
     background: #FFF;
     font-size: 0.8em;
+    z-index: 5;
   }
 
   .txt {
-    padding: 1em; 
+    padding: 1em;
   }
 
   .appStoreBadge {
